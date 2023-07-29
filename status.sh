@@ -6,4 +6,4 @@ for i in $(ls); do
     git status
     cd ..
 done
-cat
+read
